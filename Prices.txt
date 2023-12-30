@@ -2,3 +2,4 @@ Mango - 20CAD
 pawpaw - 5CAD
 Apple - 10CAD
 Orange - 8CAD 
+Kiwi - 2CAD
